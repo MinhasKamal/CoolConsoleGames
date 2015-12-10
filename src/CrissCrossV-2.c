@@ -1,6 +1,6 @@
 /**
 * Game's Name: Criss-cross
-* Version: 02(last)
+* Version: 02
 * Developer: Minhas Kamal (IIT - 5th Batch)
 * Date: 08.June.2013
 * Comment: I wish it will give u as much pleasure as I had, developing it.
