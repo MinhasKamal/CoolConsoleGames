@@ -2,7 +2,7 @@
 * Game's Name: 16-stones
 * Version: 1
 * Developer: Minhas Kamal (IIT - 5th Batch)
-* Date: --.June.2013
+* Date: June.2013
 * Comment: This is the demo of the main game.
 **/
 
