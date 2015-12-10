@@ -1,6 +1,6 @@
 /**
 * Game's Name: Game of Life
-* Version: 1(only)
+* Version: 1
 * Developer: Minhas Kamal (IIT - 5th Batch)
 * Date: 16.September.2013
 * Comment: It is a copy of a famous program called "The Game Of Life" developed by a mathematician at
