@@ -3,14 +3,17 @@
 1. 16Pebbles
 
 2. 3Stones
+
 It is an interesting game where you place three stones on a board and move them. So that you can align them serially or place against the opponent.
 
 3. CrissCross
 
 4. GameOfLife
+
 It is actually an implementation of the eminent program "The Game of Life" developed by a mathematician of Cambridge. It simulates evolution of life and proves that a set of simple laws may produce complex result.
 
 5. PebbleDropping
+
 It is one my favourite games. You drop a pebble in a column and and try to align four pebbles sequentially. You can play with the computer too. But the AI is not complete yet, so it is easy to win against. This is my very first program of game.
 
 6. SnakeRush
