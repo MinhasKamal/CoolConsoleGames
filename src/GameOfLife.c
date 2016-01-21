@@ -1,11 +1,26 @@
-/**
-* Game's Name: Game of Life
-* Version: 1
-* Developer: Minhas Kamal (IIT - 5th Batch)
+/********************************************************************************************
+* Game Name: Game of Life (Version: 01)
+* Developer: Minhas Kamal (minhaskamal024@gmail.com)
 * Date: 16.September.2013
-* Comment: It is a copy of a famous program called "The Game Of Life" developed by a mathematician at
-           Cambridge. While developing it, I felt myself a real programmer.
-**/
+* Brief Description: It is an imitation of the famous program called "The Game Of Life" developed by a mathematician at
+*     Cambridge.
+*********************************************************************************************/
+
+/********************************************************************************************
+                                GNU GENERAL PUBLIC LICENSE
+                                 Version 3, 29 June 2007
+         This program is free software: you can redistribute it and/or modify
+         it under the terms of the GNU General Public License as published by
+         the Free Software Foundation, either version 3 of the License, or
+         (at your option) any later version.
+         This program is distributed in the hope that it will be useful,
+         but WITHOUT ANY WARRANTY; without even the implied warranty of
+         MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+         GNU General Public License for more details.
+         You should have received a copy of the GNU General Public License
+         along with this program.  If not, see <http://www.gnu.org/licenses/>.
+********************************************************************************************/
+
 
 
 #include <stdio.h>
