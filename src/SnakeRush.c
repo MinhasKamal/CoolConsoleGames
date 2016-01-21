@@ -1,10 +1,11 @@
 /**
-* Game's Name: Snake_Rush
+* Game Name: SnakeRush
+* Version: 1
 * Collector: Minhas Kamal (IIT - 5th Batch)
 * Date: 19.September.2013
-* Comment: Krishan Developed the program & all of its algorithms. He really have done a great
-           gob. But the code was not easy-readable or commended & there were unnecessary
-           complexities. So I(Minhas) re-arranged the code, did some modification & made the
+* Comment: I got the code from internet. The developer really have done a great
+           job. But the code was not easy-readable or commended & there were unnecessary
+           complexities. So I re-arranged the code, did some modification & made the
            interface nicer. Even now this code is not very reliable.
 **/
 
