@@ -1,8 +1,27 @@
-/**
-* Developer: Minhas Kamal (IIT - 5th Batch)
+/********************************************************************************************
+* Game Name: Pebble Dropping (Version: 03)
+* Developer: Minhas Kamal (minhaskamal024@gmail.com)
 * Date: 24.April.2013
-* Game's Name: Pebble Dropping
-**/
+* Brief Description: It is one my favourite games. You drop a pebble in a column
+*     and and try to align four pebbles sequentially. You can play with the computer
+*     too. But the AI is not complete yet, so it is easy to win against. This is my
+*     very first program of game.
+*********************************************************************************************/
+
+/********************************************************************************************
+                                GNU GENERAL PUBLIC LICENSE
+                                 Version 3, 29 June 2007
+         This program is free software: you can redistribute it and/or modify
+         it under the terms of the GNU General Public License as published by
+         the Free Software Foundation, either version 3 of the License, or
+         (at your option) any later version.
+         This program is distributed in the hope that it will be useful,
+         but WITHOUT ANY WARRANTY; without even the implied warranty of
+         MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+         GNU General Public License for more details.
+         You should have received a copy of the GNU General Public License
+         along with this program.  If not, see <http://www.gnu.org/licenses/>.
+********************************************************************************************/
 
 
 
