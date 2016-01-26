@@ -4,6 +4,12 @@
 
 2. **3Stones**: It is an interesting game where you place three stones on a board and move them. So that you can align them serially or place against the opponent.
 
+  <div align="center">
+  <img src="https://cloud.githubusercontent.com/assets/5456665/12574293/ce1bc424-c42c-11e5-90af-69f4412b03c0.png" height="270" width="210" >
+  <img src="https://cloud.githubusercontent.com/assets/5456665/12574297/d57ed756-c42c-11e5-9ec8-975d6c0813e2.png" height="270" width="210" >
+  <img src="https://cloud.githubusercontent.com/assets/5456665/12574300/d8a61cf0-c42c-11e5-95dc-233a27e1b74b.png" height="270" width="210" >
+  </div>
+
 3. **CrissCross**: This is a simple Tic-Tac-Toe game. You can play with the computer too. The computer has two types of AI, having two levels of smartness.
 
 4. **GameOfLife**: It is actually an implementation of the eminent program "The Game of Life" developed by a mathematician of Cambridge. It simulates evolution of life and proves that a set of simple laws may produce complex result. To see the fabulous result run the *.lnk file provided with it in bin.
