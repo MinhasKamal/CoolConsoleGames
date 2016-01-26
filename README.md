@@ -12,7 +12,17 @@
 
 3. **CrissCross**: This is a simple Tic-Tac-Toe game. You can play with the computer too. The computer has two types of AI, having two levels of smartness.
 
+  <div align="center">
+  <img src="https://cloud.githubusercontent.com/assets/5456665/12574937/7c6a9f6e-c432-11e5-9161-38d6fd05d6c3.png" height="270" width="210" >
+  <img src="https://cloud.githubusercontent.com/assets/5456665/12574939/7c71073c-c432-11e5-8d5a-5b717f04e9c9.png" height="270" width="210" >
+  <img src="https://cloud.githubusercontent.com/assets/5456665/12574938/7c6c5ae8-c432-11e5-94b6-1b5a8a9c60c7.png" height="270" width="210" >
+  </div>
+
 4. **GameOfLife**: It is actually an implementation of the eminent program "The Game of Life" developed by a mathematician of Cambridge. It simulates evolution of life and proves that a set of simple laws may produce complex result. To see the fabulous result run the *.lnk file provided with it in bin.
+
+  <div align="center">
+  <img src="https://cloud.githubusercontent.com/assets/5456665/12575093/f70304b8-c433-11e5-98f4-25d282b4d20b.png" height="270" width="300" >
+  </div>
 
 5. **PebbleDropping**: It is one my favorite games. You drop a pebble in a column and and try to align four pebbles sequentially. You can play with the computer too. But the AI is not complete yet, so it is easy to win against. This is my very first program of game.
 
