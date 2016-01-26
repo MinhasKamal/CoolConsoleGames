@@ -378,8 +378,7 @@ void printIntroduction()
 {
     printf("\t\t%c%cWelcome to the Snake Rush Game%c%c\n\n\n\n", 16, 16, 17, 17);
 
-    printf("* Developer: Krishan Kumar Ganguli (BSSE0505, IIT, DU)\n");
-    printf("* Assistant Developer: Minhas Kamal (BSSE0509, IIT, DU)\n");
+    printf("* Collector and Refiner: Minhas Kamal (BSSE0509, IIT, DU)\n");
     printf("* Date: 19.September.2013\n\n\n\n");
 
     printf("## Game instructions:\n");
