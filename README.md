@@ -31,17 +31,17 @@
 5. **PebbleDropping**: It is one my favorite games. You drop a pebble in a column and and try to align four pebbles sequentially. You can play with the computer too. But the AI is not complete yet, so it is easy to win against. This is my very first program of game.
 
   <div align="center">
-  <img src="https://cloud.githubusercontent.com/assets/5456665/12575780/811eea04-c439-11e5-9a64-ee7e69049f12.png" height="270" width="210" >
   <img src="https://cloud.githubusercontent.com/assets/5456665/12575781/8121b450-c439-11e5-9151-dacfe5b8eaba.png" height="270" width="210" >
   <img src="https://cloud.githubusercontent.com/assets/5456665/12575782/8122cfc0-c439-11e5-9433-0f6c0c369f39.png" height="270" width="210" >
+  <img src="https://cloud.githubusercontent.com/assets/5456665/12575780/811eea04-c439-11e5-9a64-ee7e69049f12.png" height="270" width="210" >
   </div>
 
 
 6. **SnakeRush**: This game is a regular snake game. This program was collected from the internet. I fixed some problems of this code, yet it contains some bugs.
 
   <div align="center">
-  <img src="https://cloud.githubusercontent.com/assets/5456665/12575808/b20eedee-c439-11e5-912a-ef39b9fc0de5.png" height="270" width="300" >
   <img src="https://cloud.githubusercontent.com/assets/5456665/12575809/b2109ce8-c439-11e5-8120-2055517ac12b.png" height="270" width="300" >
+  <img src="https://cloud.githubusercontent.com/assets/5456665/12575808/b20eedee-c439-11e5-912a-ef39b9fc0de5.png" height="270" width="300" >
   </div>
 
 
