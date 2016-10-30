@@ -3,7 +3,7 @@
 
 The project contains 6 games-
 
-1. **3Stones**: It is an interesting game where you place three stones on a board and move them. So that you can align them serially or place against the opponent.
+1. **3Stones**: It is an interesting game where you place three stones on a board and move them. So that you can align them serially or place against the opponent. Get [source code](https://github.com/MinhasKamal/CoolConsoleGames/blob/master/src/3Stones.c) & [executable](https://github.com/MinhasKamal/CoolConsoleGames/blob/master/bin/3Stones.exe?raw=true). 
 
   <div align="center">
   <img src="https://cloud.githubusercontent.com/assets/5456665/12574293/ce1bc424-c42c-11e5-90af-69f4412b03c0.png" height="250" width="210" >
@@ -12,7 +12,7 @@ The project contains 6 games-
   </div>
 
 
-2. **CrissCross**: This is a simple Tic-Tac-Toe game. You can play with the computer too. The computer has two types of AI, having two levels of smartness.
+2. **CrissCross**: This is a simple Tic-Tac-Toe game. You can play with the computer too. The computer has two types of AI, having two levels of smartness. Get [source code](https://github.com/MinhasKamal/CoolConsoleGames/blob/master/src/CrissCrossV-2.c) & [executable](https://github.com/MinhasKamal/CoolConsoleGames/blob/master/bin/CrissCrossV-2.exe?raw=true). 
 
   <div align="center">
   <img src="https://cloud.githubusercontent.com/assets/5456665/12574937/7c6a9f6e-c432-11e5-9161-38d6fd05d6c3.png" height="250" width="210" >
@@ -21,14 +21,14 @@ The project contains 6 games-
   </div>
 
 
-3. **GameOfLife**: It is actually an implementation of the eminent program "The Game of Life" developed by a mathematician of Cambridge. It simulates evolution of life and proves that a set of simple laws may produce complex result. To see the fabulous result run the *.lnk file provided with it in /bin.
+3. **GameOfLife**: It is actually an implementation of the eminent program "The Game of Life" developed by a mathematician of Cambridge. It simulates evolution of life and proves that a set of simple laws may produce complex result. To see the fabulous result run the *\*.lnk* file provided with it in */bin*. Get [source code](https://github.com/MinhasKamal/CoolConsoleGames/blob/master/src/GameOfLife.c), [executable](https://github.com/MinhasKamal/CoolConsoleGames/blob/master/bin/GameOfLife.exe), & [link for running with settings](https://github.com/MinhasKamal/CoolConsoleGames/blob/master/bin/GameOfLifeRun.lnk). 
 
   <div align="center">
   <img src="https://cloud.githubusercontent.com/assets/5456665/12575093/f70304b8-c433-11e5-98f4-25d282b4d20b.png" height="250" width="340" >
   </div>
 
 
-4. **PebbleDropping**: It is one my favorite games. You drop a pebble in a column and and try to align four pebbles sequentially. You can play with the computer too. But the AI is not complete yet, so it is easy to win against. This is my very first program of game.
+4. **PebbleDropping**: It is one my favorite games. You drop a pebble in a column and and try to align four pebbles sequentially. You can play with the computer too. But the AI is not complete yet, so it is easy to win against. This is my very first program of game. Get [source code](https://github.com/MinhasKamal/CoolConsoleGames/blob/master/src/PebbleDroppingV-3.c) & [executable](https://github.com/MinhasKamal/CoolConsoleGames/blob/master/bin/PebbleDroppingV-3.exe?raw=true). 
 
   <div align="center">
   <img src="https://cloud.githubusercontent.com/assets/5456665/12575781/8121b450-c439-11e5-9151-dacfe5b8eaba.png" height="250" width="210" >
@@ -37,7 +37,7 @@ The project contains 6 games-
   </div>
 
 
-5. **SnakeRush**: This game is a regular snake game. This program was collected from the internet. I fixed some problems of this code, yet it contains some bugs.
+5. **SnakeRush**: This game is a regular snake game. This program was collected from the internet. I fixed some problems of this code, yet it contains some bugs. Get [source code](https://github.com/MinhasKamal/CoolConsoleGames/blob/master/src/SnakeRush.c) & [executable](https://github.com/MinhasKamal/CoolConsoleGames/blob/master/bin/SnakeRush.exe). 
 
   <div align="center">
   <img src="https://cloud.githubusercontent.com/assets/5456665/12575809/b2109ce8-c439-11e5-8120-2055517ac12b.png" height="250" width="300" >
