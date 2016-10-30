@@ -1,9 +1,9 @@
 # :alien: Cool Console Games
 #### Simple Console Based Game
 
-The project contains 6 games-
-
 ### Games
+
+The project contains 6 games-
 
 1. **3Stones**: It is an interesting game where you place three stones on a board and move them. So that you can align them serially or place against the opponent. Get [source code](https://github.com/MinhasKamal/CoolConsoleGames/blob/master/src/3Stones.c) & [executable](https://github.com/MinhasKamal/CoolConsoleGames/blob/master/bin/3Stones.exe?raw=true). 
 
@@ -52,4 +52,4 @@ The project contains 6 games-
 Get all the compiled games for Windows OS from [here](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/MinhasKamal/CoolConsoleGames/tree/master/bin).
 
 ### License
-<a rel="license" href="https://opensource.org/licenses/MIT"><img alt="MIT License" src="https://cloud.githubusercontent.com/assets/5456665/18950087/fbe0681a-865f-11e6-9552-e59d038d5913.png" width="60em" height=auto/></a><br/><a href="https://github.com/MinhasKamal/DownGit">CoolConsoleGames</a> is licensed under <a rel="license" href="https://opensource.org/licenses/MIT">MIT License</a>.
+<a rel="license" href="https://opensource.org/licenses/MIT"><img alt="MIT License" src="https://cloud.githubusercontent.com/assets/5456665/18950087/fbe0681a-865f-11e6-9552-e59d038d5913.png" width="60em" height=auto/></a><br/><a href="https://github.com/MinhasKamal/CoolConsoleGames">CoolConsoleGames</a> is licensed under <a rel="license" href="https://opensource.org/licenses/MIT">MIT License</a>.
